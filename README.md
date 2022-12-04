@@ -1,12 +1,8 @@
-Api chat web feito em Node.js
+#### Api de bate-papo com recursos primários. Desenvolvido durante estudos para proposta de nova arquitetura e versão do bate-papo UOL.
 
-# Execute npm install
+#### Instalação:
+1. Execute npm install e após instalar os pacotes:
+2. Execute npm run serve
+3. O chat rodará em http://localhost:3000 abrir essa url no seu navegador
 
-Após instalar os pacotes
-
-# Execute npm run serve
-
-# O chat rodará em http://localhost:3000
-
-# O chat depende do front feito em react.js
-# Você poderá encontrar o repositório através do meu perfil no github.
+#### Autor: eu, gsm.dados@gmail.com / Linkedin: https://www.linkedin.com/in/gsmdados
