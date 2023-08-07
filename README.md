@@ -1,4 +1,4 @@
-#### Api de bate-papo com recursos primários. Desenvolvido durante estudos para proposta de nova arquitetura e versão do bate-papo UOL.
+#### Api de bate-papo com recursos primários. Desenvolvido durante estudos para apresentar proposta de nova arquitetura do bate-papo UOL. Este projeto é pessoal e não passa de uma POC (prova de conceito).
 
 #### Instalação:
 1. Execute npm install e após instalar os pacotes:
