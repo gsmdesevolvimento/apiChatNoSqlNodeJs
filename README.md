@@ -5,4 +5,4 @@
 2. Execute npm run serve
 3. O chat rodará em http://localhost:3000 abrir essa url no seu navegador
 
-#### Autor: eu, gsm.dados@gmail.com / Linkedin: https://www.linkedin.com/in/gsmdados
+#### Autor: eu, gsm.dados@gmail.com / Linkedin: https://www.linkedin.com/in/gsmdesenvolvimento/
